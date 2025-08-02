@@ -13,7 +13,7 @@ import ext.mods.commons.data.StatSet;
 import ext.mods.commons.logging.CLogger;
 import ext.mods.commons.pool.ThreadPool;
 import ext.mods.commons.random.Rnd;
-import ext.mods.extensions.manager.PlayerListenerManager;
+import ext.mods.extensions.listener.manager.PlayerListenerManager;
 import ext.mods.gameserver.data.manager.SpawnManager;
 import ext.mods.gameserver.data.xml.NpcData;
 import ext.mods.gameserver.handler.VoicedCommandHandler;

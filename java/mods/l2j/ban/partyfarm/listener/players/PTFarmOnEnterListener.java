@@ -4,7 +4,7 @@ import java.time.Duration;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
-import ext.mods.extensions.interfaces.listener.OnPlayerEnterListener;
+import ext.mods.extensions.listener.actor.player.OnPlayerEnterListener;
 import ext.mods.gameserver.model.actor.Player;
 import mods.l2j.ban.partyfarm.data.PartyFarmData;
 import mods.l2j.ban.partyfarm.holder.PTFarmPlayerMessagesHolder;
